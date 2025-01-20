@@ -1,1 +1,1 @@
-# lab project to automate this reposiotory with jenkins and other tools
+# lab project to automate this repository with jenkins and other tools
